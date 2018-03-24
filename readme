@@ -1,0 +1,8 @@
+My first individual swift project!
+
+For those that don't spend lots of time on League, it is frequently difficult to know what the correct runes/build for your champion are. Certain apps have attempted to deal with this problem by providing you with game to game guides, but most of these services are of little help in lobby. The idea is you favorite several pro players, streamers or friends from which the app will pull data. First you select a champion. The app will then cycle through the player names you entered and present you with each player that has played your selected champion within the last few days. You can then select the desired summoner names and it will show you the runes that each selected summoner chose in their last game on your entered champion. There will be an option view more details on op.gg if desired.
+The app will eventually also contain research/stats on the game. I've frequently wondered things such as how much a first dragon really is worth in gold? What is the average gold value of a kill? How does it differ on different champions (i.e. how much better really is a kill on my Twitch than one on my Janna?) These are far in the future though and really seperate projects from my Swift work.
+Cheers,
+1CRK 
+
+If you have any changes/suggestions message me in League! My summoner name is 1337 Programmer (NA).
